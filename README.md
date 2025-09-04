@@ -28,3 +28,13 @@ It is not just a card, but also an **interactive logic demo** you can carry in y
 - The output is displayed using discrete LEDs arranged as digits.  
 
 ---
+## 📜 License
+MIT License — feel free to use, modify, and build your own logic business card.
+
+---
+
+## 🙋 About
+Created by **Michael Eldin**  
+System Validation Engineer  
+📧 michaeldin770@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-eldin-37a20b162/)
