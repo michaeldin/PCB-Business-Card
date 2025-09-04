@@ -1,0 +1,2 @@
+The design was made with EasyEda
+The fabrication was made with JLCPCB
