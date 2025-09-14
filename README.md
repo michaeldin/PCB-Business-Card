@@ -2,6 +2,8 @@
 
 ![Business Card Front](Photos/front.jpeg)
 
+![GIF](demonstration_gif.gif)
+
 A fully functional **PCB business card** that demonstrates digital logic design using discrete ICs.  
 This card integrates **AND, OR, gates, D flip-flops and an NE555 clock generator** — all powered by a single CR2032 coin cell.  
 It is not just a card, but also an **interactive logic demo** you can carry in your pocket.
