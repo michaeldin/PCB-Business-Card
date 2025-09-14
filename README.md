@@ -1,6 +1,6 @@
 # Logic Gate Business Card
 
-![Business Card Front](docs/photos/front.jpg)
+![Business Card Front](Photos/front.jpg)
 
 A fully functional **PCB business card** that demonstrates digital logic design using discrete ICs.  
 This card integrates **AND, OR, gates, D flip-flops and an NE555 clock generator** — all powered by a single CR2032 coin cell.  
