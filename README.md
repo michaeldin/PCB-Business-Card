@@ -1,18 +1,17 @@
-# Logic Gate Business Card
+# PCB Business Card
 
 ![Business Card Front](Photos/front.jpeg)
 
 
 
-A fully functional **PCB business card** that demonstrates digital logic design using discrete ICs.  
-This card integrates **AND, OR, gates, D flip-flops and an NE555 clock generator** — all powered by a single CR2032 coin cell.  
+A PCB card, designed as a business card. This PCB contain a logic gate circuit that display my phone number on a 7 segment LEDs
 
 ---
 ![GIF](Photos/demonstration_gif.gif)
 
 ---
-## ✨ Features
-- PCB size: **90 mm × 50 mm** (standard business card size)  
+##  Features
+- PCB size: **90 mm × 50 mm**   
 - Power: **CR2032 coin cell**  
 - Components:
   - `74HC08` — AND gates  
@@ -24,19 +23,17 @@ This card integrates **AND, OR, gates, D flip-flops and an NE555 clock generator
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 - The **NE555 timer** generates a ~1 Hz clock signal.  
 - The clock drives the **4-bit counter (made of 4 DFFs)**, which increments automatically.
 - Combinational logic (using logic gates) manipulate the counter output to show my phone number.
 - The output is displayed using discrete LEDs arranged as digits.  
 
 ---
-## 📜 License
-MIT License — feel free to use, modify, and build your own logic business card.
-
+feel free to use, modify, and build your own logic business card.
 ---
 
-## 🙋 About
+##  About
 Created by **Michael Eldin**  
 System Validation Engineer  
 📧 michaeldin770@gmail.com  
